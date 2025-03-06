@@ -1,19 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Posts on Sid&#39;s Blog</title>
-    <link>http://www.mishrasidhant.github.io/posts/</link>
-    <description>Recent content in Posts on Sid&#39;s Blog</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 04 Mar 2025 07:59:17 -0500</lastBuildDate>
-    <atom:link href="http://www.mishrasidhant.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>First post</title>
-      <link>http://www.mishrasidhant.github.io/posts/purpose/</link>
-      <pubDate>Tue, 04 Mar 2025 07:59:17 -0500</pubDate>
-      <guid>http://www.mishrasidhant.github.io/posts/purpose/</guid>
-      <description>&lt;h1 id=&#34;another-blog-site&#34;&gt;&#xA;  Another blog site&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#another-blog-site&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Sid&amp;rsquo;s blog&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-to-expect&#34;&gt;&#xA;  What to expect&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#what-to-expect&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Technical writeups&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-contact-me&#34;&gt;&#xA;  How to contact me&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#how-to-contact-me&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Email (add link)&lt;/li&gt;&#xA;&lt;li&gt;Linkedin&lt;/li&gt;&#xA;&lt;li&gt;Github&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Sid's Blog</title><link>https://www.mishrasidhant.github.io/posts/</link><description>Recent content in Posts on Sid's Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 04 Mar 2025 07:59:17 -0500</lastBuildDate><atom:link href="https://www.mishrasidhant.github.io/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>First post</title><link>https://www.mishrasidhant.github.io/posts/purpose/</link><pubDate>Tue, 04 Mar 2025 07:59:17 -0500</pubDate><guid>https://www.mishrasidhant.github.io/posts/purpose/</guid><description>&lt;h1 id="another-blog-site">
+ Another blog site
+ &lt;a class="heading-link" href="#another-blog-site">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h1>
+&lt;p>Sid&amp;rsquo;s blog&lt;/p>
+&lt;h2 id="what-to-expect">
+ What to expect
+ &lt;a class="heading-link" href="#what-to-expect">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Technical writeups&lt;/li>
+&lt;/ul>
+&lt;h2 id="how-to-contact-me">
+ How to contact me
+ &lt;a class="heading-link" href="#how-to-contact-me">
+ &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
+ &lt;span class="sr-only">Link to heading&lt;/span>
+ &lt;/a>
+&lt;/h2>
+&lt;ul>
+&lt;li>Email (add link)&lt;/li>
+&lt;li>Linkedin&lt;/li>
+&lt;li>Github&lt;/li>
+&lt;/ul></description></item></channel></rss>
