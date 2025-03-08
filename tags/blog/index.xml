@@ -1,30 +1,13 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Sid's Blog</title><link>https://mishrasidhant.github.io/tags/blog/</link><description>Recent content in Blog on Sid's Blog</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 04 Mar 2025 07:59:17 -0500</lastBuildDate><atom:link href="https://mishrasidhant.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>First post</title><link>https://mishrasidhant.github.io/posts/purpose/</link><pubDate>Tue, 04 Mar 2025 07:59:17 -0500</pubDate><guid>https://mishrasidhant.github.io/posts/purpose/</guid><description>&lt;h1 id="another-blog-site">
- Another blog site
- &lt;a class="heading-link" href="#another-blog-site">
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on The Terminal Tinkerer</title><link>https://mishrasidhant.github.io/tags/blog/</link><description>Recent content in Blog on The Terminal Tinkerer</description><generator>Hugo</generator><language>en</language><lastBuildDate>Tue, 04 Mar 2025 07:59:17 -0500</lastBuildDate><atom:link href="https://mishrasidhant.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml"/><item><title>Why start a blog?</title><link>https://mishrasidhant.github.io/posts/purpose/</link><pubDate>Tue, 04 Mar 2025 07:59:17 -0500</pubDate><guid>https://mishrasidhant.github.io/posts/purpose/</guid><description>&lt;h1 id="why-start-a-blog">
+ Why start a blog?
+ &lt;a class="heading-link" href="#why-start-a-blog">
  &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
  &lt;span class="sr-only">Link to heading&lt;/span>
  &lt;/a>
 &lt;/h1>
-&lt;p>Sid&amp;rsquo;s blog&lt;/p>
-&lt;h2 id="what-to-expect">
- What to expect
- &lt;a class="heading-link" href="#what-to-expect">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
 &lt;ul>
-&lt;li>Technical writeups&lt;/li>
+&lt;li>To capture my mistakes and wins as I tinker with tech&lt;/li>
+&lt;li>To share ideas and create guides for others who may stumble along the same path&lt;/li>
+&lt;li>To learn from your feedback&lt;/li>
 &lt;/ul>
-&lt;h2 id="how-to-contact-me">
- How to contact me
- &lt;a class="heading-link" href="#how-to-contact-me">
- &lt;i class="fa-solid fa-link" aria-hidden="true" title="Link to heading">&lt;/i>
- &lt;span class="sr-only">Link to heading&lt;/span>
- &lt;/a>
-&lt;/h2>
-&lt;ul>
-&lt;li>Email (add link)&lt;/li>
-&lt;li>Linkedin&lt;/li>
-&lt;li>Github&lt;/li>
-&lt;/ul></description></item></channel></rss>
+&lt;p>I enjoy working on problems that challenge me, but once I solve them, I quickly move on to the next challenge. Over time, I forget some of the interesting things I&amp;rsquo;ve worked on in the past. This blog will serve as a personal archive. Encouraging me to review my notes and reflect on the lessons I&amp;rsquo;ve learned over the years and share them with you.&lt;/p></description></item></channel></rss>
